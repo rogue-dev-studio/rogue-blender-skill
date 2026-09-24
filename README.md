@@ -4,7 +4,7 @@
 
 Rogue skill: Blender 3D via Rogue Blender MCP for agents
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Pair with MCP: https://github.com/rogue-dev-studio/rogue-blender-mcp
 
 ## Install
